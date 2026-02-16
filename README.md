@@ -1,77 +1,45 @@
 <h1 align="center">Hi 👋, I'm Surybhan Kumar</h1>
-<h3 align="center">💻 3rd Year CSE Student | Java & DSA Learner | Aspiring Software Developer</h3>
+<h3 align="center">💻 CSE Student | Java & DSA Learner | Open to Internship</h3>
+
+<p align="center">
+  <a href="https://github.com/Surybhankumar">
+    <img src="https://komarev.com/ghpvc/?username=Surybhankumar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-🔭 I’m currently working on:  
-🍔 Food Delivery Web Application  
-👉 https://github.com/Surybhankumar/food-delivary  
-
-🌱 I’m currently learning:  
-- Backtracking (DSA)  
-- Spring Boot  
-- Advanced Java  
-
-💬 Ask me about:  
-- React  
-- Vue.js  
-- GSAP Animations  
-- Java & DSA  
-
-🤝 I’m looking to collaborate on:  
-- Open Source Projects  
-- Web Development Projects  
-- Java Based Projects  
+- 🔭 I’m currently working on **Food Delivery Web App**
+- 🌱 I’m currently learning **Backtracking & DSA**
+- 💬 Ask me about **React, Vue, GSAP, Java**
+- 📫 Reach me at: **surybhank818@gmail.com**
+- 🎯 Looking for **Software Development Internship**
 
 ---
 
 ## 🛠️ Tech Stack
-💻 Languages:  
-- Java  
-- Python  
-- JavaScript  
-
-🌐 Web Development:  
-- HTML  
-- CSS  
-- React.js  
-- Vue.js  
-- GSAP  
-
-📚 Core Skills:  
-- Data Structures & Algorithms  
-- Object Oriented Programming (OOP)  
-- Problem Solving  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,vue,html,css,git,github" />
+</p>
 
 ---
 
-## 📂 Featured Project
-### 🍔 Food Delivery App
-A modern food delivery web application with interactive UI and smooth animations.  
-🔗 Repository: https://github.com/Surybhankumar/food-delivary  
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Surybhankumar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surybhankumar&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 Coding Profiles
-👨‍💻 LeetCode: https://leetcode.com/u/surybhankumar/  
-🔗 GitHub: https://github.com/Surybhankumar  
-💼 LinkedIn: https://www.linkedin.com/in/surybhan-kumar-a45954296  
+## 🔥 Top Project
+🍔 Food Delivery App  
+🔗 https://github.com/Surybhankumar/food-delivary
 
 ---
 
-## 📫 Contact Me
-📧 Email: surybhank818@gmail.com  
-
----
-
-## 🎯 Career Goal
-💼 Looking for Internship Opportunities in:
-- Software Development  
-- Java Developer  
-- Web Development  
-
----
-
-## ⚡ Fun Fact
-I love solving DSA problems and building real-world projects to improve my development skills 🚀
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surybhankumar&theme=react-dark" />
+</p>
