@@ -75,8 +75,5 @@ I solve DSA problems daily and love building real-world projects to become a top
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Surybhankumar/Surybhankumar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+
 
